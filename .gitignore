@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.buildpath
+.cache
+.env
+build/
+tags
+!tags/
+tmp/
